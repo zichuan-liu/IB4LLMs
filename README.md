@@ -1,4 +1,4 @@
-<p align=center> :fire: `Protecting Your LLMs with Information Bottleneck`</p>
+# <p align=center> :fire: `Protecting Your LLMs with Information Bottleneck`</p>
 
 This is the official PyTorch code for IBProtector, we will open-source ASAP.  
 
