@@ -7,6 +7,12 @@ This is the official PyTorch code for IBProtector, we will open-source ASAP.
 ![figs](figs/framework.png)
 
 
+We propose IBProtector, the first LLM jailbreak defending method based on the Information Bottleneck principle in the perspective of information compression, and give a traceable objective function. The method is lightweight and requires no modifications to the LLMs. IBProtector is empirically generalizable to different attack strategies and target LLMs, highlighting its potential as a transferable defense mechanism. We evaluate IBProtector on token-level and prompt-level jailbreaking datasets. The results show that IBProtector can successfully defend against adversarial prompts without substantially affecting LLMs’ responsiveness and inference consumption.
+
+
+
+
+
 ## Citing IBProtector
 > 🌟 If you find this resource helpful, please consider star this repository and cite our research:
 ```tex
@@ -23,6 +29,10 @@ In case of any questions, bugs, suggestions or improvements, please feel free to
 
 
 ## Further Reading
+For more information about theroies and limitations of exsiting methods, please see [THIS SILED](https://zichuan-liu.github.io/talk/ib_slides.pdf).
+
+The following are related works:
+
 1, [**Explaining Time Series via Contrastive and Locally Sparse Perturbations**](https://openreview.net/pdf?id=qDdSRaOiyb), in ICLR 2024.
 [\[GitHub Repo\]](https://github.com/zichuan-liu/ContraLSP)
 
@@ -33,5 +43,17 @@ In case of any questions, bugs, suggestions or improvements, please feel free to
       year={2024},
       booktitle={Proceedings of the 12th International Conference on Learning Representations},
       pages={1-21}
+}
+```
+
+2, [**TimeX++: Learning Time-Series Explanations with Information Bottleneck**](https://openreview.net/pdf?id=qDdSRaOiyb), in ICML 2024.
+[\[GitHub Repo\]](https://github.com/zichuan-liu/ContraLSP) (TODO)
+
+```bibtex
+@inproceedings{liu2024explaining,
+      title={Explaining Time Series via Contrastive and Locally Sparse Perturbations}, 
+      author={Zichuan Liu, Tianchun Wang, Jimeng Shi, Xu Zheng, Zhuomin Chen, Lei Song, Wenqian Dong, Jayantha Obeysekera, Farhad Shirani, Dongsheng Luo},
+      year={2024},
+      booktitle={Proceedings of the 41st International Conference on Machine Learning}
 }
 ```
