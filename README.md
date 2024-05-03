@@ -50,8 +50,8 @@ The following are related works:
 [\[GitHub Repo\]](https://github.com/zichuan-liu/ContraLSP) (TODO)
 
 ```bibtex
-@inproceedings{liu2024explaining,
-      title={Explaining Time Series via Contrastive and Locally Sparse Perturbations}, 
+@inproceedings{liu2024timex,
+      title={TimeX++: Learning Time-Series Explanations with Information Bottleneck}, 
       author={Zichuan Liu, Tianchun Wang, Jimeng Shi, Xu Zheng, Zhuomin Chen, Lei Song, Wenqian Dong, Jayantha Obeysekera, Farhad Shirani, Dongsheng Luo},
       year={2024},
       booktitle={Proceedings of the 41st International Conference on Machine Learning}
