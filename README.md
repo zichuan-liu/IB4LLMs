@@ -2,7 +2,7 @@
 
 [[Arxiv Paper](https://arxiv.org/abs/2404.13968)] [[Slides](https://github.com/zichuan-liu/IB4LLMs/blob/main/intro_slides_llm.pdf)] [[中文版](https://zhuanlan.zhihu.com/p/694129510)] [[Website Page](https://zichuan-liu.github.io/projects/IBProtector/index.html)] 
 
-This is the official PyTorch code for IBProtector, we will open-source ASAP.  
+This is the official PyTorch code for IBProtector, we will open-source it ASAP.  
 
 ![figs](figs/framework.png)
 
@@ -14,7 +14,7 @@ We propose IBProtector, the first LLM jailbreak defending method based on the In
 
 
 ## Citing IBProtector
-> 🌟 If you find this resource helpful, please consider star this repository and cite our research:
+> 🌟 If you find this resource helpful, please consider starting this repository and cite our research:
 ```tex
 @misc{liu2024protecting,
       title={Protecting Your LLMs with Information Bottleneck}, 
@@ -25,11 +25,11 @@ We propose IBProtector, the first LLM jailbreak defending method based on the In
       primaryClass={cs.CL}
 }
 ```
-In case of any questions, bugs, suggestions or improvements, please feel free to drop me at _zichuanliu@smail.nju.edu.cn_ or open an issue.
+In case of any questions, bugs, suggestions, or improvements, please feel free to drop me at _zichuanliu@smail.nju.edu.cn_ or open an issue.
 
 
 ## Further Reading
-For more information about theroies and limitations of exsiting methods, please see [THIS SILED](https://zichuan-liu.github.io/talk/ib_slides.pdf).
+For more information about theories and limitations of existing methods, please see [THIS SILED](https://zichuan-liu.github.io/talk/ib_slides.pdf).
 
 The following are related works:
 
