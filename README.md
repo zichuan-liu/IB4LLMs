@@ -46,8 +46,8 @@ The following are related works:
 }
 ```
 
-2, [**TimeX++: Learning Time-Series Explanations with Information Bottleneck**](https://openreview.net/pdf?id=qDdSRaOiyb), in ICML 2024.
-[\[GitHub Repo\]](https://github.com/zichuan-liu/ContraLSP) (TODO)
+2, [**TimeX++: Learning Time-Series Explanations with Information Bottleneck**](https://arxiv.org/abs/2405.09308), in ICML 2024.
+[\[GitHub Repo\]](https://github.com/zichuan-liu/TimeXplusplus)
 
 ```bibtex
 @inproceedings{liu2024timex,
