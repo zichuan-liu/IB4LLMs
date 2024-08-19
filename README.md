@@ -29,7 +29,7 @@ In case of any questions, bugs, suggestions, or improvements, please feel free t
 
 
 ## Further Reading
-For more information about theories and limitations of existing methods, please see [THIS SILED](https://zichuan-liu.github.io/talk/ib_slides.pdf).
+For more information about theories and limitations of existing methods, please see [THIS SLIDE](https://zichuan-liu.github.io/talk/ib_slides.pdf).
 
 The following are related works:
 
