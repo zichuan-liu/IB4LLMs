@@ -1,0 +1,8 @@
+datasets==2.14.5
+torch==2.1.1
+torchmetrics==1.2.0
+bitsandbytes==0.43.0
+openai==0.28.0
+fschat==0.2.20
+transformers==4.40.1
+fairscale
